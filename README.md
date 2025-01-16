@@ -1,1 +1,2 @@
 # odevler
+readme
