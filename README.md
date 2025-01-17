@@ -32,6 +32,9 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
   - Sharp Develop'ta bir form üzerinden mikrodenetleyiciye başlangıç zamanı gönderilir.
   - Zamanlayıcı, LCD'de ve Sharp Develop üzerindeki bir metin kutusunda eşzamanlı olarak görüntülenir.
   - Gerçek zamanlı veri akışı sağlanır.
+ 
+# Fom Uygulaması Görsel
+()
 
 ### 4. ADC ile Sıcaklık Ölçümü
 - **Amacı:** ADC modülünü kullanarak bir 10k'lık potansiyometre ile sıcaklık ölçümü yapmak.
@@ -74,7 +77,7 @@ Aşağıdaki kütüphane ve araçların kurulu olduğundan emin olun:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adi/ileri-mikroislemci-projeleri.git
+   [git clone https://github.com/kullanici-adi/ileri-mikroislemci-projeleri.git](https://github.com/Metinkorum/odevler.git)
    ```
 
 2. İlgili projeyi **Code Composer Studio** ile açın.
@@ -87,9 +90,4 @@ Aşağıdaki kütüphane ve araçların kurulu olduğundan emin olun:
 
 ---
 
-## Lisans
-
-Bu depo, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyin.
-
----
 
