@@ -22,6 +22,8 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
   - Özel karakterlerin gösterimi.
   - Ekranın dinamik olarak temizlenmesi ve güncellenmesi.
 
+  ![LCD PINS](https://github.com/Metinkorum/odevler/blob/main/proje1/2x16-lcd-ekran-sol-ust-mavi-qapass__1350064996275180.jpg)
+
 ### 2. Timer Uygulaması
 - **Amacı:** Yazılım tabanlı bir 24 saatlik zamanlayıcı oluşturmak.
 - **Açıklama:** Bu proje, mikrodenetleyicinin dahili zamanlayıcılarını kullanarak tamamen yazılımda çalışan bir zamanlayıcı simülasyonu yapmayı hedefler.
