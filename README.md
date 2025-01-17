@@ -9,7 +9,6 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
 - [Proje Açıklamaları](#proje-açıklamaları)
 - [Kurulum ve Gereksinimler](#kurulum-ve-gereksinimler)
 - [Nasıl Kullanılır?](#nasıl-kullanılır)
-- [Lisans](#lisans)
 
 ---
 
