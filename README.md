@@ -28,6 +28,8 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
 - **Amacı:** Yazılım tabanlı bir 24 saatlik zamanlayıcı oluşturmak.
 - **Açıklama:** Bu proje, mikrodenetleyicinin dahili zamanlayıcılarını kullanarak tamamen yazılımda çalışan bir zamanlayıcı simülasyonu yapmayı hedefler.
 
+![Timer Örnek Görsel](https://github.com/Metinkorum/odevler/blob/main/proje2/T%C4%B0MER.jpeg)
+
 ### 3. Sharp Develop ile Eşzamanlı Timer Uygulaması
 - **Amacı:** Bir zamanlayıcıyı Sharp Develop ile gerçek zamanlı olarak senkronize etmek.
 - **Açıklama:**
