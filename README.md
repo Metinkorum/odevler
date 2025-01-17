@@ -34,7 +34,7 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
   - Gerçek zamanlı veri akışı sağlanır.
  
 # Fom Uygulaması Görsel
-()
+![Form Tasarımı](https://github.com/Metinkorum/odevler/blob/main/proje3/form%20tasar%C4%B1m.png)
 
 ### 4. ADC ile Sıcaklık Ölçümü
 - **Amacı:** ADC modülünü kullanarak bir 10k'lık potansiyometre ile sıcaklık ölçümü yapmak.
