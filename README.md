@@ -21,6 +21,8 @@ Bu depo, **İleri Mikroişlemciler** dersi kapsamında geliştirilen ve **Tiva C
 - **Özellikler:**
   - Özel karakterlerin gösterimi.
   - Ekranın dinamik olarak temizlenmesi ve güncellenmesi.
+ 
+  [LCD PDF](https://github.com/Metinkorum/odevler/blob/main/proje1/lcd%20datasheet.pdf)
 
   ![LCD PINS](https://github.com/Metinkorum/odevler/blob/main/proje1/2x16-lcd-ekran-sol-ust-mavi-qapass__1350064996275180.jpg)
 
